@@ -1,9 +1,8 @@
 beautifulsoup4>=4.9.3,<5.0
 ipython>=8.12.3,<9.0
 pandas>=2.0.3,<3.0
-matplotlib==3.3.4
-numpy==1.20.1
-numpy==1.22.4
+numpy>=1.22.4,<2.0
+matplotlib>=3.4.0,<4.0  # or a specific version like 3.5.1
 plotly==5.22.0
 scikit_learn==0.24.1
 scipy==1.6.2
