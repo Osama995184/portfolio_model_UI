@@ -1,11 +1,11 @@
 beautifulsoup4==4.12.3
-ipython==8.12.3  # or 7.22.0, but not both
-pandas==2.0.3  # Choose one version here
-numpy==1.22.4  # Choose one version here
-matplotlib==3.9.2  # Consider updating this to a compatible version
+ipython==8.12.3
+pandas==2.0.3
+numpy==1.22.4
+matplotlib==3.9.2
 plotly==5.22.0
-scikit_learn==0.24.1  # Check compatibility with the Python version
-scipy==1.10.0  # Use a version compatible with Python 3.12
+scikit_learn==0.24.1
+scipy==1.10.1  
 seaborn==0.11.1
 selenium==4.26.1
 streamlit==1.39.0
